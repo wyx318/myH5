@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我终于有自己的网页了 哈哈 好开心
 
 You can use the [editor on GitHub](https://github.com/wyx318/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
